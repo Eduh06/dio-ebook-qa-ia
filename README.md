@@ -26,8 +26,6 @@ O ebook explora as mudanças na carreira de QA com a chegada da IA, desmistifica
 ## ✍️ Artigo Relacionado
 Confira o artigo completo sobre a experiência de criação e insights sobre QA e IA no link abaixo:
 
-🔗 [Meu Artigo no LinkedIn/Medium](SEU_LINK_AQUI)
-
 ## 👨‍💻 Autor
-[Seu Nome]  
+[Eduardo dos Santos]  
 [Seu LinkedIn](LINK_DO_SEU_PERFIL)
